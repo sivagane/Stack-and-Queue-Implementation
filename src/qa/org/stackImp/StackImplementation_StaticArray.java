@@ -57,6 +57,11 @@ public class StackImplementation_StaticArray {
 	}
 	public void sayWishes() {
 		System.out.println("Hello sir!. Many more happy returns of the day.");
+		System.out.println("Conflicts Solved.");
+	}
+	public void sayHello() {
+		System.out.println("Hello sir!. Good Evening.");
+
 	}
 	
 	public static void main(String[] args) {
