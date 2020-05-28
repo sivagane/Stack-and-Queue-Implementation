@@ -56,6 +56,9 @@ public class StackImplementation_StaticArray {
 		return (top==-1);
 	}
 	
+	public void sayHello() {
+		System.out.println("Hello sir!. Good Evening.");
+	}
 	
 	public static void main(String[] args) {
 
