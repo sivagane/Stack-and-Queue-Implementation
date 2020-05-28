@@ -60,6 +60,10 @@ public class StackImplementation_StaticArray {
 		System.out.println("Hello sir!. Good Evening.");
 	}
 	
+	public void sayWishes() {
+		System.out.println("Hello sir!. Many more happy returns of the day.");
+	}
+	
 	public static void main(String[] args) {
 
 	StackImplementation_StaticArray si_sa= new StackImplementation_StaticArray(9);
