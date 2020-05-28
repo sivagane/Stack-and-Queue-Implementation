@@ -55,7 +55,9 @@ public class StackImplementation_StaticArray {
 	public boolean isEmpty() {
 		return (top==-1);
 	}
-	
+	public void sayWishes() {
+		System.out.println("Hello sir!. Many more happy returns of the day.");
+	}
 	
 	public static void main(String[] args) {
 
